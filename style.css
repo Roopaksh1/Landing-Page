@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.subtext, .header a, button{
+    font-size: 30px;
+    color: #E5E7EB;
+}
+
+.logoimg{
+    width: 80px;
+    border-radius: 50px;
+}
+
+.header a{
+    text-decoration: none;
+    border-right: white 2px solid;
+    padding-right: 10px;
+}
+
+a:hover{
+    text-decoration: underline 1px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.header, .footer{
+    background-color: #1F2937;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    width: 1300px;
+}
+
+.container{
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.horse{
+    width: 500px;
+    height: 300px;
+}
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+button, .action{
+    background-color: #3882F6;
+}
+
+button{
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.info-wrapper{
+    
+    padding: 50px;
+}
+
+.info-header{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    text-align: center;
+}
+
+.info img{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.info-wrapper>div{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.quote{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin: 0px auto;
+    padding: 50px;
+}
+
+.quote-wrapper{
+    background-color: #E5E7EB;
+}
+
+.author{
+    align-self: flex-end;
+}
+
+.action{
+    padding: 50px;
+    width: 1300px;
+    margin: 100px auto;
+    border-radius: 15px;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action button{
+    border-color: white;
+}
+
+.footer a, .footer{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.footer{
+    padding: 30px;
+}
