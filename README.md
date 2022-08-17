@@ -1,8 +1,12 @@
-# Landing-Page
+<div align=center>
+<h1 align=center>Landing Page</h1>
+<p><b></b></p>
+<a href=https://Roopaksh1.github.io/Landing-Page><img src=https://img.shields.io/badge/%F0%9F%91%89-LIVE-success></a>
+</div>
 
-**[Live Preview]**
+<div align=center><img src=https://user-images.githubusercontent.com/72032743/185163615-68789357-e15f-485b-b03b-db4659085cb1.png></div>
 
-Images Featured:
+## Images Featured
 
 header-logo :- hhttps://www.istockphoto.com/photo/soccer-ball-gm482855855-20306878?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffootball&utm_term=football%3A%3A%3A
 
@@ -17,5 +21,3 @@ rabbit :- https://unsplash.com/photos/fbyk23MT_BQ
 cat :- https://unsplash.com/photos/JgNoOkz33T8
 
 background :- https://unsplash.com/photos/DDf0VmWgI7o
-
-[Live Preview]: <https://roopaksh1.github.io/Landing-Page/>
